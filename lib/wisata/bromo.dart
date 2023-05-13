@@ -114,7 +114,7 @@ Widget QuoteCard1() => Card(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Muhammad Aditya Nursyahid',
+              'Athalla',
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 10),
