@@ -12,7 +12,7 @@ Widget QuoteCard() => Card(
         ),
         const SizedBox(height: 12),
         Text(
-          'Muhammad Aditya Nursyahid',
+          'Athalla',
           style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
         ),
       ],
