@@ -109,7 +109,7 @@ class _MyProfile extends State<MyProfile> {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: const [
         Text(
-          'Rahmat Hidayat',
+          'Athalla'
           style: TextStyle(fontSize: 20),
           textAlign: TextAlign.left,
         ),
@@ -134,7 +134,7 @@ class _MyProfile extends State<MyProfile> {
         ),
         const SizedBox(height: 10),
         const Text(
-          'Perkenalkan nama saya Rahmat saya seorang penjelajah yang senang mengunjungi berbagai tempat, saya juga sangat suka bermain game DLL',
+          'Perkenalkan nama saya Athalla saya seorang penjelajah yang senang mengunjungi berbagai tempat, saya juga sangat suka bermain game DLL',
           style: TextStyle(
             fontSize: 12,
             //fontFamily: 'pridi',
