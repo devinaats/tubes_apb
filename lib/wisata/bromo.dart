@@ -93,7 +93,7 @@ Widget QuoteCard() => Card(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Ahmad Zakaria',
+              'Devina',
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 10),
